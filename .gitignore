@@ -1,0 +1,20 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+
+# Watchman
+.watchmanconfig
+
+# Android
+.idea/**/*
+.gradle
+local.properties
+*.iml
+/android/
+
+# Node
+*.log
+.nvm
+/bots/node_modules/
+package-lock.json
+
